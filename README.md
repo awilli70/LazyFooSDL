@@ -25,4 +25,4 @@ LazyFoo intended for lessons 1 and 2 to not use the loop (and instead close afte
 a short period), but later converted them to use a one-liner event loop.
 
 Since I cleaned up the eventloop for lessons 1 and 2 rather than having them be a one-liner,
-I skipped them.
+I skipped lesson 3 as it added nothing new.
